@@ -25,7 +25,7 @@ def is_authenticated():
 # Connect to MySQL database
 db_config = {
     'user': 'root',
-    'password': 'zoelee2003',
+    'password': '*****',
     'host': 'localhost',
     'database': 'ehr'
 }
