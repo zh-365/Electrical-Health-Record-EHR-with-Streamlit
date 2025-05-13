@@ -21,7 +21,7 @@ selected = option_menu(
 
 db_config = {
         'user': 'root',
-        'password': 'zoelee2003',
+        'password': '*****',
         'host': 'localhost',
         'database': 'ehr'
     }
